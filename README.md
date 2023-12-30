@@ -26,7 +26,7 @@ Simply clone the repository, navigate to the project directory, and open `index.
 Feedback and contributions are welcome. Please feel free to fork the repository and submit pull requests.
 
 ## License
-WeatherApp is released under the [MIT License](LICENSE).
+WeatherApp is released under the [MIT License] [LICENSE](https://github.com/alsokirua/WeatherApp/blob/main/LICENSE.md).
 
 ---
 
